@@ -1,0 +1,45 @@
+----------------------------------------
+Function: multiply
+Timestamp: 08-08-2023 15:33:17
+Arguments: -4, 6
+----------------------------------------
+Function: say_hi
+Timestamp: 08-08-2023 15:33:26
+Arguments: Jorel
+----------------------------------------
+Function: get_max
+Timestamp: 08-08-2023 15:33:26
+Arguments: [-5, -20, -4, -6, -7]
+----------------------------------------
+Function: say_hi
+Timestamp: 08-08-2023 15:33:34
+Arguments: Vitea
+----------------------------------------
+Function: say_hi
+Timestamp: 08-08-2023 15:33:41
+Arguments: Danil
+----------------------------------------
+Function: get_max
+Timestamp: 08-08-2023 15:33:56
+Arguments: [5, 20, -4, 6, 7]
+----------------------------------------
+Function: multiply
+Timestamp: 08-08-2023 15:34:08
+Arguments: 8, 1
+----------------------------------------
+Function: say_hi
+Timestamp: 08-08-2023 15:34:38
+Arguments: Valerian
+----------------------------------------
+Function: get_max
+Timestamp: 08-08-2023 15:34:38
+Arguments: [4, 9, -3, 5, 19, 33, 99]
+----------------------------------------
+Function: say_hi
+Timestamp: 08-08-2023 15:34:59
+Arguments: Valerian
+----------------------------------------
+Function: get_max
+Timestamp: 08-08-2023 15:34:59
+Arguments: [-34, 99, 13, 25, 19, 33, 22]
+----------------------------------------

@@ -1,0 +1,53 @@
+----------------------------------------
+Timestamp: 08-08-2023 13:06:23
+Function: say_hi
+Arguments: Valerian
+----------------------------------------
+Timestamp: 08-08-2023 13:06:23
+Function: get_max
+Arguments: [1, 5, 3, 9, 7, 2]
+----------------------------------------
+Timestamp: 08-08-2023 13:06:23
+Function: multiply
+Arguments: 5, 4
+----------------------------------------
+Timestamp: 08-08-2023 13:06:25
+Function: say_hi
+Arguments: Valerian
+----------------------------------------
+Timestamp: 08-08-2023 13:06:25
+Function: get_max
+Arguments: [1, 5, 3, 9, 7, 2]
+----------------------------------------
+Timestamp: 08-08-2023 13:06:25
+Function: multiply
+Arguments: 5, 4
+----------------------------------------
+Timestamp: 08-08-2023 13:06:35
+Function: say_hi
+Arguments: Valerian
+----------------------------------------
+Timestamp: 08-08-2023 13:06:35
+Function: get_max
+Arguments: [1, 5, 3, 9, 7, 2]
+----------------------------------------
+Timestamp: 08-08-2023 13:06:35
+Function: multiply
+Arguments: 5, 4
+----------------------------------------
+Timestamp: 08-08-2023 13:07:44
+Function: say_hi
+Arguments: Valerian
+----------------------------------------
+Timestamp: 08-08-2023 13:07:44
+Function: get_max
+Arguments: [1, 5, 3, 9, 7, 2]
+----------------------------------------
+Timestamp: 08-08-2023 13:07:44
+Function: multiply
+Arguments: 5, 4
+----------------------------------------
+
+summ - 2
+get_random_number - 2
+print_python_top - 5
